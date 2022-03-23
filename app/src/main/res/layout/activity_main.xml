@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A2A84D"
+    android:backgroundTint="#04972D"
+    android:backgroundTintMode="src_in"
+    android:foregroundTint="@color/white"
+    android:textAlignment="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/pickedImage"
+        android:layout_width="match_parent"
+        android:layout_height="279dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="578dp"
+        android:layout_height="234dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="-4dp"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="350dp"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="63dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="#DC754D"
+        android:text="predict" />
+
+    <Button
+        android:id="@+id/info"
+        android:layout_width="150dp"
+        android:layout_height="63dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="20dp"
+        android:text="Info" />
+
+</RelativeLayout>

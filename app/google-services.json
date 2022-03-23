@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "135896991972",
+    "firebase_url": "https://animal-detection-app-default-rtdb.firebaseio.com",
+    "project_id": "animal-detection-app",
+    "storage_bucket": "animal-detection-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135896991972:android:4b47b12436bfa1b45b84f1",
+        "android_client_info": {
+          "package_name": "com.example.imgp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135896991972-u26gfpolacgg535auii29mfjpvf9fd71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJhO5T6Lgn1O4TCzNhnc3CEGCvJDyYSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135896991972-u26gfpolacgg535auii29mfjpvf9fd71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135896991972:android:341a81072bb310685b84f1",
+        "android_client_info": {
+          "package_name": "com.example.searchanimal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135896991972-u26gfpolacgg535auii29mfjpvf9fd71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJhO5T6Lgn1O4TCzNhnc3CEGCvJDyYSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135896991972-u26gfpolacgg535auii29mfjpvf9fd71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
