@@ -17,13 +17,7 @@ This Android app allows users to explore and learn about various animals using t
 - **Firebase Integration:** Animal details are fetched from a Firebase database, ensuring up-to-date and accurate information.
 
 - **User-Friendly Interface:** The app features an intuitive and easy-to-navigate interface for a seamless user experience.
-
 ## Technologies Used
 - ** Java for Android application development.
 - ** Firebase for storing and retrieving animal details.
 - ** Image recognition technology for identifying animals.
-- 
- ## Screenshots
-![App Screenshot](anifact1.png)
-![App Screenshot](anifact2.png)
-![App Screenshot](anifact3.png)
