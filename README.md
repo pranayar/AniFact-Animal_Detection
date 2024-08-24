@@ -10,11 +10,12 @@ This Android app allows users to explore and learn about various animals using t
 
 3. **Search Animal Details via Name:** Users can manually enter the name of an animal, and the app will fetch and display details about the specified animal from a Firebase database.
 
+
+![Alt text](https://github.com/pranayar/AniFact-Animal_Detection/blob/main/anifact3.png)
+
 ![Alt text](https://github.com/pranayar/AniFact-Animal_Detection/blob/main/anifact1.png)
 
 ![Alt text](https://github.com/pranayar/AniFact-Animal_Detection/blob/main/anifact2.png)
-
-![Alt text](https://github.com/pranayar/AniFact-Animal_Detection/blob/main/anifact3.png)
 
 ## Features
 
