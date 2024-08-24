@@ -9,6 +9,7 @@ This Android app allows users to explore and learn about various animals using t
 2. **Search Animal via Camera:** Utilizing the device's camera, users can capture an image of an animal, and the app will identify and display information about the identified creature.
 
 3. **Search Animal Details via Name:** Users can manually enter the name of an animal, and the app will fetch and display details about the specified animal from a Firebase database.
+![Alt text](https://github.com/pranayar/AniFact-Animal_Detection/blob/main/anifact1.png)
 
 ## Features
 
